@@ -1,13 +1,11 @@
-		<HTML>
+<HTML>
 
-		<HEAD>
-		 <TITLE> HTML File </TITLE>
-		</HEAD>
+<HEAD>
+ <TITLE> HTML File </TITLE>
+</HEAD>
 
-		<BODY>
+<BODY>
+	This is a simle HTML file
+</BODY>
 
-			This is a simle HTML file
-
-		</BODY>
-
-		</HTML>
+<HTML>
